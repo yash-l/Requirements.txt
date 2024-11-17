@@ -1,0 +1,7 @@
+python-telegram-bot
+apscheduler
+numpy
+sklearn
+pytz
+sqlite3
+yaml
